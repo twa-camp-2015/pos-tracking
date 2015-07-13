@@ -1,0 +1,3 @@
+[submodule "LiYa"]
+	path = LiYa
+	url = git@github.com:aositelici/pos.git
