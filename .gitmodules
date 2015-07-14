@@ -1,3 +1,6 @@
 [submodule "LiYa"]
 	path = LiYa
 	url = git@github.com:aositelici/pos.git
+[submodule "ShiCaiqiang"]
+	path = ShiCaiqiang
+	url = git@github.com:scq000/pos.git
