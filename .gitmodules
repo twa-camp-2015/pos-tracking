@@ -4,3 +4,12 @@
 [submodule "ShiCaiqiang"]
 	path = ShiCaiqiang
 	url = git@github.com:scq000/pos.git
+[submodule "WangXiaolong"]
+	path = WangXiaolong
+	url = git@github.com:XiaoLongW/pos.git
+[submodule "WangFengzhu"]
+	path = WangFengzhu
+	url = git@github.com:carolineF/pos.git
+[submodule "WangYue"]
+	path = WangYue
+	url = git@github.com:WY08271/pos.git
