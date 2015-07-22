@@ -13,3 +13,21 @@
 [submodule "WangYue"]
 	path = WangYue
 	url = git@github.com:WY08271/pos.git
+[submodule "ZhaoShaoyi"]
+	path = ZhaoShaoyi
+	url = git@github.com:simpletrain/pos.git
+[submodule "WuXue"]
+	path = WuXue
+	url = git@github.com:zwimeyihmh/pos.git
+[submodule "LiYuanYuan"]
+	path = LiYuanYuan
+	url = git@github.com:liyuanyuan57/pos.git
+[submodule "LiuDi"]
+	path = LiuDi
+	url = git@github.com:Danaekola/pos.git
+[submodule "ZhouYixing"]
+	path = ZhouYixing
+	url = git@github.com:sialvsic/pos.git
+[submodule "LiYu"]
+	path = LiYu
+	url = git@github.com:Evan-Leee/pos.git
